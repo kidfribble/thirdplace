@@ -90,6 +90,10 @@ p {
   max-width: 460px;
 }
 
+p:nth-child(3), address:nth-child(3) {
+  font-size: 1.15rem;
+}
+
 @media screen and (max-width: 800px) {
 
   body {
