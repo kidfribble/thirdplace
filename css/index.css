@@ -1,0 +1,15 @@
+body {
+  font-family: "Gill sans", "Gill Sans Nova", "DejaVu Sans", "Open Sans", "Lato", sans-serif;
+  font-size: 1.5em;
+  padding-top: 8vh;
+}
+
+body * {
+  max-width: 800px;
+  margin: auto;
+  margin-bottom: 1rem;
+}
+
+p {
+  display: block;
+}
