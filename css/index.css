@@ -92,9 +92,9 @@ p {
 
 @media screen and (max-width: 800px) {
   h1 {
-    line-height: 2rem;
+    line-height: auto;
   }
-  
+
   section {
     display: flex;
     flex-wrap: wrap;
